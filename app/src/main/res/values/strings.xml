@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PendoMovieAppTask</string>
+    <string name="example_text">Text Example</string>
+    <string name="name">name</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_vote_average">Vote Average: </string>
+    <string name="movie_release_date">Release Date: </string>
+    <string name="back_to_homepage">Back to Homepage</string>
+    <string name="discover_most_popular_movies_today">Discover The Most Popular Movies Today</string>
+    <string name="results_for_string">Results for: </string>
+    <string name="search_placeholder">Search Movies</string>
+</resources>
